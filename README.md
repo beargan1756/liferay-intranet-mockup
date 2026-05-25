@@ -7,3 +7,4 @@ Built during internship at WEBSE Sdn Bhd (Jan – May 2026)
 
 **Features:** Home dashboard, Task Sheet, Time Off, Directory, 
 Holiday, Benefits, IT Help Desk, Products, Contact Us (with Object form), About Us
+<img width="1920" height="3785" alt="intranet" src="https://github.com/user-attachments/assets/f1323d52-005d-497b-9357-58cace1b967c" />
